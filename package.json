@@ -89,7 +89,7 @@
     "prettier": "^1.19.1",
     "react-scripts": "3.4.0",
     "semantic-release": "^17.0.4",
-    "standard-version": "^7.1.0",
+    "standard-version": "^8.0.1",
     "truffle-typings": "^1.0.8",
     "typechain": "^1.0.5",
     "typechain-target-truffle": "^1.0.2",
